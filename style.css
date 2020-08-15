@@ -126,7 +126,7 @@ section.About h3{
 
 section.About p{
 	font-family: 'lato',sans-serif;
-	color: var(--ternary);
+	color: var(--pure);
 	line-height: 2;
 	margin-bottom: 2rem;
 
