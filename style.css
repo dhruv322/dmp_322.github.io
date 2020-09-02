@@ -270,6 +270,28 @@ section.freelancer p{
 	margin-bottom: 2rem;
 	font-family: 'lato',sans-serif;
 }
+section.reviews .q1{
+	font-size: 30px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	position: relative;
+	animation: text 3s 1;
+}
+@keyframes text{
+	0%{
+		color: black;
+		margin-bottom: -40px;
+	}
+	30%{
+
+		letter-spacing: 25px;
+		margin-bottom: -40px;
+	}
+	85%{
+		letter-spacing: 8px;
+		margin-bottom: -40px;
+		}
+}
 
 
 section.reviews .information a img{
